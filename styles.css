@@ -1,0 +1,54 @@
+
+body{
+   opacity: 0.8;
+   background-image: radial-gradient(#444cf7 0.5px, #e5e5f7 0.5px);
+   background-size: 10px 10px;
+   font-family: "JetBrains Mono", monospace;
+   color:#000000
+
+}
+
+
+
+.card{
+    background-color:#ffffff;
+    border-radius:2px;
+    padding:20px;
+    height:85vh;
+    width:130vh;
+    margin:auto;
+}
+
+.row{
+    display:flex;
+    justify-content:space-between;
+    padding:10vh;
+    margin-top:-10vh;
+}
+
+.X-note{
+    margin-left:-5vh;
+    margin-bottom:-5.5vh;
+}
+
+.transactiontext{
+    margin-top:-5vh;
+    margin-left:5vh;
+    font-size:20px;
+}
+
+ul li span{
+    position:static;
+    display:inline-block;
+    border-radius:60%;
+    width:40px;
+    height:40px;
+    font-size:22px;
+    color:#8a5b79;
+    line-height:40px;
+    text-align:center;
+}
+
+li{
+    margin-left:3vh;
+}
