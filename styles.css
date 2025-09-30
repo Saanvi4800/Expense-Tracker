@@ -28,15 +28,14 @@ body{
 }
 
 .X-note{
-    margin-left:-5vh;
-    margin-bottom:-5.5vh;
+    margin-bottom:-5.0vh;
 }
 
 .transactiontext{
     margin-top:-5vh;
     margin-left:5vh;
     font-size:20px;
-    color: #444cf7;
+    color: #8085e5;
 }
 
 ul li span{
@@ -46,7 +45,7 @@ ul li span{
     width:40px;
     height:40px;
     font-size:22px;
-    color:#8a5b79;
+    color:#8085e5;
     line-height:40px;
     text-align:center;
     cursor:pointer;
@@ -77,13 +76,13 @@ h3,form{
     border:1px solid #ccc;
     padding:10px;
     font-size:16px;
-    color: #444cf7;
+    color: #8085e5;
     font-family:"JetBrains Mono", monospace; ;
 
 }
 .btn{
     cursor:pointer;
-    background-color:#444cf7;
+    background-color:#8085e5;
     color:#fff;
     border:none;
     border-radius:2px;
@@ -96,6 +95,21 @@ h3,form{
     background-color:#303edc;
 }
 h1{
-    color:#444cf7;
+    color:#8085e5;
     
 }
+
+footer {
+  background: #8085e5;
+  color: #fff;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 0.9em;
+  border-top: solid #8085e5;
+  padding-top: 5px;
+  padding-bottom:5px;
+}
+
